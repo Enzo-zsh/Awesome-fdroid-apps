@@ -1,2 +1,2 @@
-# Awesome-fdroid-apps
-Awesome F-Droid Apps
+# Awesome F-Droid Apps
+
